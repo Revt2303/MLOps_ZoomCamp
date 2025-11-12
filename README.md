@@ -5,9 +5,11 @@
 **Contents:**
 - Web Services - Flask/Fast API
 - Docker
-- Cloud Deploy - AWS Elastic BeanStalk
+- Cloud Deployment - AWS Elastic BeanStalk
 
 **Overview of the Deployment Process:**
+- 1. Model Serialization: Convert our trained model into a serialized format for easy storage and retrieval.
+                          Common serialization formats include Pickle, Joblib, and ONNX.
 
 
   

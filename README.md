@@ -1,6 +1,6 @@
 # ML_ZoomCamp
 
-5. ML Deployment
+*5. ML Deployment*
 
 **Contents:**
 - Web Services - Flask/Fast API
